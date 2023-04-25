@@ -23,9 +23,7 @@
 ## 💫 About Me:
 My name is Theerathat Phosri (Non).<br>I am 21 years old I am currently a 3rd year student at<br>Mahasarakham University and want to learn and gain new experiences<br>in working and ready to learn new things.
 - 🌱 I’m currently learning to be a **Front-End Developer.**
-- 💬 Ask me about ...
 - 📫 How to reach me: theerathat.phosri@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: **I am Funny**
 
 ---
