@@ -16,6 +16,8 @@
   </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+
 <!--
 **TheerathatPhosri/TheerathatPhosri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
