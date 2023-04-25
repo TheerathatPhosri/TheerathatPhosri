@@ -20,6 +20,11 @@
 
 ---
 
+## 💫 About Me:
+My name is Theerathat Phosri (Non).<br>I am 21 years old I am currently a 3rd year student at<br>Mahasarakham University and want to learn and gain new experiences<br>in working and ready to learn new things.
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
