@@ -25,8 +25,16 @@
 ---
 
 ## 💫 About Me:
+<div id="header" align="center">
+  <img align="center" src="https://miro.medium.com/v2/resize:fit:1400/0*UhTH5KGa1DmSVRkI.jpeg" width="100%"/>
+</div><br>
+  
+ 
+  <img align="right" height="500" src="https://c4.wallpaperflare.com/wallpaper/849/648/857/anime-anime-girls-brunette-sitting-pallett-artist-hd-wallpaper-preview.jpg">
+
+  
 My name is Theerathat Phosri (Non).<br>I am 21 years old I am currently a 3rd year student at<br>Mahasarakham University and want to learn and gain new experiences<br>in working and ready to learn new things.
-<img align="right" height="500" src="https://c4.wallpaperflare.com/wallpaper/849/648/857/anime-anime-girls-brunette-sitting-pallett-artist-hd-wallpaper-preview.jpg">
+
 - 🌱 I’m currently learning to be a **Front-End Developer.**
 - 📫 How to reach me: theerathat.phosri@gmail.com
 - ⚡ Fun fact: **I am Funny**
