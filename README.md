@@ -47,6 +47,8 @@ My name is Theerathat Phosri (Non).<br>I am 21 years old I am currently a 3rd ye
 
 ---
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
