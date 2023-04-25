@@ -51,10 +51,6 @@ My name is Theerathat Phosri (Non).<br>I am 21 years old I am currently a 3rd ye
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheerathatPhosri&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-
-
-
-
 <!--
 **TheerathatPhosri/TheerathatPhosri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
