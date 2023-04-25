@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi 👋, I'm Theerathat Phosri
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -22,6 +22,11 @@
 
 ## 💫 About Me:
 My name is Theerathat Phosri (Non).<br>I am 21 years old I am currently a 3rd year student at<br>Mahasarakham University and want to learn and gain new experiences<br>in working and ready to learn new things.
+- 🌱 I’m currently learning to be a **Front-End Developer.**
+- 💬 Ask me about ...
+- 📫 How to reach me: theerathat.phosri@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: **I am Funny**
 
 ---
 
@@ -52,7 +57,7 @@ My name is Theerathat Phosri (Non).<br>I am 21 years old I am currently a 3rd ye
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning to be a front-end developer.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
