@@ -47,8 +47,7 @@ My name is Theerathat Phosri (Non).<br>I am 21 years old I am currently a 3rd ye
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheerathatPhosri&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 
 <!--
