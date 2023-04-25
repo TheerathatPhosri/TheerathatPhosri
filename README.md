@@ -56,10 +56,9 @@ My name is Theerathat Phosri (Non).<br>I am 21 years old I am currently a 3rd ye
 ---
 
 ~~~javascript
-Const myNickName = {
-  firstName : Theerathat,
-  lastName : Phosri,
-  nickName : Nonny,
+Const aboutMe = {
+  myName : Theerathat Phosri,
+  myNickName : Nonny,
   age : 21
 }
 ~~~
