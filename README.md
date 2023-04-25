@@ -1,10 +1,12 @@
 # Hi 👋, I'm Theerathat Phosri
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://wallpapers.com/images/hd/japanese-anime-street-in-daytime-yhctlyztk0jf54fk.jpg" height="100%" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn.wallpapersafari.com/8/1/FqEYG7.jpg" height="100%" /></a>
 
+<!--
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+-->
 
 <div id="badges" align="center">
   <a href="https://www.facebook.com/nonny.theerathat.phosri/">
@@ -24,9 +26,11 @@
 
 ## 💫 About Me:
 My name is Theerathat Phosri (Non).<br>I am 21 years old I am currently a 3rd year student at<br>Mahasarakham University and want to learn and gain new experiences<br>in working and ready to learn new things.
+<img align="right" height="500" src="https://c4.wallpaperflare.com/wallpaper/849/648/857/anime-anime-girls-brunette-sitting-pallett-artist-hd-wallpaper-preview.jpg">
 - 🌱 I’m currently learning to be a **Front-End Developer.**
 - 📫 How to reach me: theerathat.phosri@gmail.com
 - ⚡ Fun fact: **I am Funny**
+
 
 ---
 
